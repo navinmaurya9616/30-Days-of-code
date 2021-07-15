@@ -1,0 +1,8 @@
+import java.util.*;
+public classMain{
+public static void main(String[] args)
+{
+System.out.Println("Hello World");
+System.out.Println("This is new Begining");
+}
+}
